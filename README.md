@@ -13,6 +13,14 @@
  
  <h3 align="left">Hacking Profiles:</h3>
  <p align="left"> <img src="https://www.hackthebox.com/badge/image/527775" style="max-width: 256px; display: inline"/> </p>
+ [TryHackMe](https://tryhackme.com/p/DarthLotia)
+ 
+ <h3 align="left">Social Profiles:</h3>
+ <p align="left">
+<a href="https://www.linkedin.com/in/hussain-lotia-a39479191" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" alt="hussain lotia" height="30" width="40" /></a>
+   <a href="https://discord.gg/DarthLotia#8007" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/344/discord-logo.png" alt="DarthLotia#8007" height="30" width="40" /></a>
+   <a href="http://twitter.com/darthlotia" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png" alt="darthlotia" height="30" width="40" /></a>
+</p>
   
 
   
