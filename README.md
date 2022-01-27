@@ -12,9 +12,9 @@
  - 📄 Hacking platforms that i'm on: [TryHackMe](https://tryhackme.com/p/DarthLotia) [HackTheBox](https://app.hackthebox.com/profile/527775)
  
  <h3 align="left">Hacking Profiles:</h3>
- <p align="left"> <img src="https://www.hackthebox.com/badge/image/527775" style="max-width: 256px; display: inline"/> </p>
+ <p align="left"> <img src="https://www.hackthebox.com/badge/image/527775" style="max-width: 256px; display: inline"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/DarthLotia.png" alt="TryHackMe"></p>
  
- [TryHackMe](https://tryhackme.com/p/DarthLotia)
  
  
  <h3 align="left">Social Profiles:</h3>
