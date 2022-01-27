@@ -8,8 +8,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   
    </p>
-   
- - 📄 Hacking platforms that i'm on: [TryHackMe](https://tryhackme.com/p/DarthLotia) [HackTheBox](https://app.hackthebox.com/profile/527775)
+  
  
  <h3 align="left">Hacking Profiles:</h3>
  <p align="left"> <img src="https://www.hackthebox.com/badge/image/527775" alt=HackTheBox style="max-width: 256px; display: inline"/>
