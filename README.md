@@ -17,7 +17,7 @@
  
  <h3 align="left">Social Profiles:</h3>
  <p align="left">
-<a href="https://www.linkedin.com/in/hussain-lotia-a39479191" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="hussain lotia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hussain-lotia-a39479191" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384030.png" alt="hussain lotia" height="30" width="40" /></a>
    <a href="https://discord.gg/DarthLotia#8007" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/344/discord-logo.png" alt="DarthLotia#8007" height="30" width="40" /></a>
    <a href="http://twitter.com/darthlotia" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128212.png?token=exp=1643286523~hmac=e76045fe57d9db112b5dc18d37fb4719" alt="darthlotia" height="30" width="40" /></a>
 </p>
