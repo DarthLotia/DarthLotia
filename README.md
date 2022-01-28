@@ -19,9 +19,9 @@
  
  <h3 align="left">Social Profiles:</h3>
  <p align="left">
-<a href="https://www.linkedin.com/in/hussain-lotia-a39479191" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" alt="hussain lotia" height="30" width="40" /></a>
-   <a href="https://discord.gg/DarthLotia#8007" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968759.png" alt="DarthLotia#8007" height="30" width="40" /></a>
-   <a href="http://twitter.com/darthlotia" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25347.png" alt="darthlotia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hussain-lotia-a39479191" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="hussain lotia" height="30" width="40" /></a>
+   <a href="https://discord.gg/DarthLotia#8007" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="DarthLotia#8007" height="30" width="40" /></a>
+   <a href="http://twitter.com/darthlotia" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png" alt="darthlotia" height="30" width="40" /></a>
 </p>
   
 
