@@ -1,5 +1,7 @@
 <h1 align="center">Hello👋, I'm Hussain Lotia</h1>
-<h4 align="center">Experienced Developer and Peneteration Tester with a demonstrated history of working in the Information Technology and Computer Science industry. Self-driven curiosity to expand more knowledge. Skilled in Python, Bash, Frontend Development, Penetration Testing, Web Forensics, Computer Networking, Malware Analysis</h4>
+<h4 align="center">IT professional with strong interest in Development and Ethical Hacking. Self-driven curiosity to expand more
+knowledge. Skilled in Python, Bash, Frontend Development, Penetration Testing, Vulnerability Analysis Web
+Forensics, Network Security, Malware Analysis, Research Analysis</h4>
 <h3 align="left">Programming and Stuff:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="js" width="40" height="40"/> </a>
