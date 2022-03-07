@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Hussain Lotia</h1>
-<h4 align="center">IT professional with strong interest in Development and Ethical Hacking. Self-driven curiosity to expand more
+<h4 align="center">IT Junior with strong interest in Development and Ethical Hacking. Self-driven curiosity to expand more
 knowledge. Skilled in Python, Bash, Frontend Development, Penetration Testing, Vulnerability Analysis Web
 Forensics, Network Security, Malware Analysis, Research Analysis</h4>
 <h3 align="left">Programming and Stuff:</h3>
