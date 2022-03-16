@@ -20,7 +20,7 @@ Forensics, Network Security, Malware Analysis, Research Analysis</h4>
  
  <h3 align="left">Social Profiles:</h3>
  <p align="left">
-<a href="https://www.linkedin.com/in/hussain-lotia-a39479191" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="hussain lotia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hussainlotia" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="hussain lotia" height="30" width="40" /></a>
    <a href="https://discord.gg/DarthLotia#8007" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="DarthLotia#8007" height="30" width="40" /></a>
    <a href="http://twitter.com/darthlotia" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="darthlotia" height="30" width="40" /></a>
 </p>
