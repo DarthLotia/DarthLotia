@@ -14,7 +14,8 @@ Forensics, Network Security, Malware Analysis, Research Analysis</h4>
  
  <h3 align="left">Hacking Profiles:</h3>
  <p align="left"> <img src="https://www.hackthebox.com/badge/image/527775" alt=HackTheBox style="max-width: 256px; display: inline"/>
-<img src="https://tryhackme-badges.s3.amazonaws.com/DarthLotia.png" alt="TryHackMe" style="max-width: 256px; display: inline"> </p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/DarthLotia.png" alt="TryHackMe" style="max-width: 256px; display: inline">
+<img src="https://www.codewars.com/users/DarthLotia/badges/micro" alt="TryHackMe" style="max-width: 256px; display: inline"></p>
  
  
  
